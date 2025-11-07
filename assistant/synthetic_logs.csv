@@ -1,0 +1,411 @@
+timestamp,level,component,message
+2025-11-07 12:46:28,WARN,Database,Out of memory error
+2025-11-07 11:19:28,INFO,LoadBalancer,Authentication service unavailable
+2025-11-07 11:59:43,ERROR,AuthService,Database connection lost
+2025-11-07 12:46:13,WARN,AuthService,Database connection lost
+2025-11-07 12:05:13,ERROR,LoadBalancer,Out of memory error
+2025-11-07 11:25:43,WARN,LoadBalancer,Connection timeout
+2025-11-07 11:13:43,WARN,Cache,Database connection lost
+2025-11-07 11:37:28,ERROR,LoadBalancer,Cache miss rate increased
+2025-11-07 12:20:28,INFO,Cache,Out of memory error
+2025-11-07 12:40:28,CRITICAL,Database,"Connection pool exhausted, unable to allocate connection"
+2025-11-07 11:31:28,INFO,Database,CPU usage exceeded threshold
+2025-11-07 11:28:13,INFO,AuthService,Authentication service unavailable
+2025-11-07 12:03:43,INFO,Database,Database connection lost
+2025-11-07 12:36:28,ERROR,Cache,Read/write lock contention detected
+2025-11-07 11:38:13,INFO,LoadBalancer,Network latency above threshold
+2025-11-07 11:49:58,INFO,Cache,Database connection lost
+2025-11-07 12:16:13,INFO,Cache,CPU usage exceeded threshold
+2025-11-07 11:15:43,INFO,AuthService,Out of memory error
+2025-11-07 12:02:13,INFO,Cache,Out of memory error
+2025-11-07 11:48:58,WARN,AuthService,Out of memory error
+2025-11-07 11:39:28,WARN,API,Disk I/O spike detected
+2025-11-07 12:29:28,WARN,Database,Cache miss rate increased
+2025-11-07 11:12:43,ERROR,LoadBalancer,Disk I/O spike detected
+2025-11-07 12:09:28,INFO,Database,Read/write lock contention detected
+2025-11-07 12:44:13,INFO,LoadBalancer,Database connection lost
+2025-11-07 12:40:28,ERROR,API,Read/write lock contention detected
+2025-11-07 11:40:28,ERROR,Cache,Disk I/O spike detected
+2025-11-07 12:02:28,ERROR,Database,Out of memory error
+2025-11-07 11:54:28,WARN,AuthService,CPU usage exceeded threshold
+2025-11-07 11:23:43,ERROR,LoadBalancer,Network latency above threshold
+2025-11-07 11:10:13,INFO,LoadBalancer,Connection timeout
+2025-11-07 11:25:28,WARN,API,Connection timeout
+2025-11-07 11:21:58,WARN,API,Out of memory error
+2025-11-07 12:39:28,CRITICAL,Database,"Connection pool exhausted, unable to allocate connection"
+2025-11-07 11:13:58,INFO,Cache,CPU usage exceeded threshold
+2025-11-07 12:39:28,WARN,Database,Cache miss rate increased
+2025-11-07 12:31:28,ERROR,Database,Cache miss rate increased
+2025-11-07 11:12:28,WARN,AuthService,Memory usage high
+2025-11-07 11:57:43,INFO,LoadBalancer,Read/write lock contention detected
+2025-11-07 12:29:58,CRITICAL,API,Authentication service unavailable
+2025-11-07 11:56:58,INFO,Cache,Out of memory error
+2025-11-07 11:08:58,CRITICAL,AuthService,Authentication service unavailable
+2025-11-07 12:47:28,WARN,Cache,Database connection lost
+2025-11-07 12:10:58,INFO,Cache,Connection timeout
+2025-11-07 11:43:58,WARN,AuthService,Authentication service unavailable
+2025-11-07 11:49:28,INFO,LoadBalancer,Authentication service unavailable
+2025-11-07 11:36:13,INFO,Database,Read/write lock contention detected
+2025-11-07 12:26:58,INFO,API,Read/write lock contention detected
+2025-11-07 11:56:43,INFO,Cache,Out of memory error
+2025-11-07 11:27:13,ERROR,Database,Disk I/O spike detected
+2025-11-07 12:23:28,INFO,Database,Authentication service unavailable
+2025-11-07 12:36:13,INFO,Database,Disk I/O spike detected
+2025-11-07 12:36:43,WARN,API,Network latency above threshold
+2025-11-07 12:13:58,WARN,LoadBalancer,Out of memory error
+2025-11-07 11:16:28,ERROR,Cache,Cache miss rate increased
+2025-11-07 12:40:43,INFO,LoadBalancer,Connection timeout
+2025-11-07 12:16:58,INFO,LoadBalancer,Connection timeout
+2025-11-07 12:22:43,WARN,Database,Connection timeout
+2025-11-07 11:40:13,WARN,LoadBalancer,Disk I/O spike detected
+2025-11-07 12:25:58,INFO,Database,Database connection lost
+2025-11-07 11:47:28,WARN,Database,Cache miss rate increased
+2025-11-07 12:06:43,CRITICAL,AuthService,Out of memory error
+2025-11-07 12:22:28,WARN,LoadBalancer,Database connection lost
+2025-11-07 11:59:13,WARN,LoadBalancer,Out of memory error
+2025-11-07 11:49:13,INFO,Database,Memory usage high
+2025-11-07 12:43:58,ERROR,Database,Database connection lost
+2025-11-07 11:43:43,INFO,Cache,Authentication service unavailable
+2025-11-07 12:34:58,INFO,Database,Connection timeout
+2025-11-07 12:25:43,INFO,Cache,Disk I/O spike detected
+2025-11-07 11:18:58,WARN,API,Cache miss rate increased
+2025-11-07 12:30:58,INFO,LoadBalancer,Network latency above threshold
+2025-11-07 11:22:13,INFO,Cache,Disk I/O spike detected
+2025-11-07 12:26:13,WARN,LoadBalancer,Read/write lock contention detected
+2025-11-07 12:31:58,WARN,API,Database connection lost
+2025-11-07 12:18:58,WARN,LoadBalancer,Read/write lock contention detected
+2025-11-07 11:09:13,ERROR,Cache,Cache miss rate increased
+2025-11-07 12:42:28,CRITICAL,Database,"Connection pool exhausted, unable to allocate connection"
+2025-11-07 12:17:43,INFO,LoadBalancer,Memory usage high
+2025-11-07 11:47:58,ERROR,AuthService,Connection timeout
+2025-11-07 12:11:13,INFO,LoadBalancer,Database connection lost
+2025-11-07 12:41:28,CRITICAL,Database,"Connection pool exhausted, unable to allocate connection"
+2025-11-07 12:11:43,INFO,Cache,Database connection lost
+2025-11-07 12:29:13,WARN,LoadBalancer,Database connection lost
+2025-11-07 12:09:43,INFO,Cache,Network latency above threshold
+2025-11-07 11:50:43,INFO,LoadBalancer,Authentication service unavailable
+2025-11-07 11:24:13,WARN,Cache,Network latency above threshold
+2025-11-07 11:55:43,ERROR,Database,Read/write lock contention detected
+2025-11-07 12:16:43,INFO,AuthService,Disk I/O spike detected
+2025-11-07 11:46:28,INFO,LoadBalancer,Network latency above threshold
+2025-11-07 12:20:43,INFO,Database,Out of memory error
+2025-11-07 11:58:43,WARN,AuthService,Memory usage high
+2025-11-07 11:42:13,INFO,Cache,Out of memory error
+2025-11-07 11:26:13,WARN,AuthService,Authentication service unavailable
+2025-11-07 11:10:58,INFO,Database,Disk I/O spike detected
+2025-11-07 11:31:13,INFO,LoadBalancer,Disk I/O spike detected
+2025-11-07 12:30:13,INFO,Cache,Disk I/O spike detected
+2025-11-07 11:53:13,INFO,Database,Authentication service unavailable
+2025-11-07 11:36:28,WARN,AuthService,Network latency above threshold
+2025-11-07 12:45:13,INFO,API,Disk I/O spike detected
+2025-11-07 11:14:28,WARN,LoadBalancer,Disk I/O spike detected
+2025-11-07 11:48:43,INFO,API,Out of memory error
+2025-11-07 12:06:28,INFO,Cache,Read/write lock contention detected
+2025-11-07 11:41:28,ERROR,Database,Out of memory error
+2025-11-07 11:19:43,INFO,AuthService,Network latency above threshold
+2025-11-07 11:33:43,INFO,AuthService,Disk I/O spike detected
+2025-11-07 12:41:28,INFO,Cache,Out of memory error
+2025-11-07 12:24:13,WARN,AuthService,Network latency above threshold
+2025-11-07 12:44:28,INFO,Database,Out of memory error
+2025-11-07 11:30:13,WARN,API,CPU usage exceeded threshold
+2025-11-07 12:38:58,WARN,API,Out of memory error
+2025-11-07 12:04:43,ERROR,Database,Memory usage high
+2025-11-07 11:28:58,INFO,API,Memory usage high
+2025-11-07 12:05:43,INFO,API,Cache miss rate increased
+2025-11-07 12:17:28,INFO,LoadBalancer,Cache miss rate increased
+2025-11-07 11:58:28,WARN,LoadBalancer,Out of memory error
+2025-11-07 12:35:13,WARN,Database,Memory usage high
+2025-11-07 12:12:58,INFO,LoadBalancer,Network latency above threshold
+2025-11-07 11:14:13,ERROR,Database,Cache miss rate increased
+2025-11-07 12:14:43,CRITICAL,Cache,Memory usage high
+2025-11-07 12:22:58,INFO,LoadBalancer,Cache miss rate increased
+2025-11-07 12:42:13,INFO,Database,Read/write lock contention detected
+2025-11-07 11:10:28,INFO,LoadBalancer,Network latency above threshold
+2025-11-07 12:07:43,INFO,AuthService,Authentication service unavailable
+2025-11-07 12:44:58,INFO,API,Disk I/O spike detected
+2025-11-07 11:42:43,INFO,AuthService,Out of memory error
+2025-11-07 12:18:43,INFO,API,Connection timeout
+2025-11-07 12:21:43,INFO,API,CPU usage exceeded threshold
+2025-11-07 11:31:43,INFO,Cache,Out of memory error
+2025-11-07 12:05:28,WARN,Database,Connection timeout
+2025-11-07 12:28:28,INFO,LoadBalancer,Memory usage high
+2025-11-07 12:37:28,INFO,API,Authentication service unavailable
+2025-11-07 11:33:13,INFO,Database,Read/write lock contention detected
+2025-11-07 12:25:13,INFO,LoadBalancer,Read/write lock contention detected
+2025-11-07 11:24:58,ERROR,Database,Read/write lock contention detected
+2025-11-07 12:38:28,CRITICAL,Database,"Connection pool exhausted, unable to allocate connection"
+2025-11-07 12:23:43,INFO,AuthService,Authentication service unavailable
+2025-11-07 11:31:58,INFO,LoadBalancer,Connection timeout
+2025-11-07 11:27:28,WARN,API,Database connection lost
+2025-11-07 11:44:28,WARN,Cache,Database connection lost
+2025-11-07 12:21:28,INFO,AuthService,Read/write lock contention detected
+2025-11-07 11:41:43,WARN,API,Out of memory error
+2025-11-07 12:03:13,WARN,API,Database connection lost
+2025-11-07 11:49:43,INFO,AuthService,CPU usage exceeded threshold
+2025-11-07 12:11:28,WARN,API,Memory usage high
+2025-11-07 11:18:13,WARN,Database,CPU usage exceeded threshold
+2025-11-07 11:15:58,ERROR,LoadBalancer,CPU usage exceeded threshold
+2025-11-07 12:15:58,WARN,AuthService,Memory usage high
+2025-11-07 12:00:13,INFO,API,Connection timeout
+2025-11-07 12:42:43,INFO,Cache,Read/write lock contention detected
+2025-11-07 11:24:43,ERROR,LoadBalancer,Authentication service unavailable
+2025-11-07 11:57:28,WARN,Cache,CPU usage exceeded threshold
+2025-11-07 12:14:28,ERROR,AuthService,Memory usage high
+2025-11-07 12:25:28,INFO,LoadBalancer,Out of memory error
+2025-11-07 12:47:43,WARN,Cache,Read/write lock contention detected
+2025-11-07 12:40:13,INFO,Cache,Network latency above threshold
+2025-11-07 12:17:58,WARN,AuthService,Network latency above threshold
+2025-11-07 12:32:58,INFO,API,Database connection lost
+2025-11-07 11:18:43,INFO,Database,Read/write lock contention detected
+2025-11-07 12:01:28,INFO,API,Out of memory error
+2025-11-07 12:00:43,WARN,Cache,Memory usage high
+2025-11-07 11:28:43,INFO,LoadBalancer,Disk I/O spike detected
+2025-11-07 12:46:43,WARN,Database,Read/write lock contention detected
+2025-11-07 11:56:13,WARN,API,Authentication service unavailable
+2025-11-07 11:53:43,INFO,Database,Read/write lock contention detected
+2025-11-07 11:10:43,INFO,AuthService,Cache miss rate increased
+2025-11-07 11:20:13,INFO,Cache,Memory usage high
+2025-11-07 12:27:13,ERROR,LoadBalancer,Network latency above threshold
+2025-11-07 11:35:58,WARN,AuthService,Authentication service unavailable
+2025-11-07 12:04:13,WARN,Cache,Memory usage high
+2025-11-07 12:31:13,ERROR,Cache,Memory usage high
+2025-11-07 11:21:28,WARN,LoadBalancer,Database connection lost
+2025-11-07 11:38:43,INFO,AuthService,Cache miss rate increased
+2025-11-07 12:13:28,INFO,API,Network latency above threshold
+2025-11-07 11:16:43,INFO,LoadBalancer,CPU usage exceeded threshold
+2025-11-07 11:40:58,WARN,LoadBalancer,Connection timeout
+2025-11-07 11:23:58,INFO,AuthService,Read/write lock contention detected
+2025-11-07 11:43:13,INFO,Cache,Disk I/O spike detected
+2025-11-07 11:29:28,ERROR,AuthService,Read/write lock contention detected
+2025-11-07 11:19:58,WARN,Database,Out of memory error
+2025-11-07 11:18:28,WARN,API,Read/write lock contention detected
+2025-11-07 12:24:28,INFO,Cache,Authentication service unavailable
+2025-11-07 12:27:28,INFO,API,Network latency above threshold
+2025-11-07 11:34:58,WARN,LoadBalancer,Read/write lock contention detected
+2025-11-07 11:38:28,INFO,Cache,Disk I/O spike detected
+2025-11-07 12:03:28,ERROR,LoadBalancer,Cache miss rate increased
+2025-11-07 12:30:43,CRITICAL,AuthService,Connection timeout
+2025-11-07 12:16:28,ERROR,AuthService,CPU usage exceeded threshold
+2025-11-07 12:11:58,ERROR,API,Authentication service unavailable
+2025-11-07 11:47:43,INFO,LoadBalancer,Out of memory error
+2025-11-07 12:13:43,WARN,AuthService,Read/write lock contention detected
+2025-11-07 12:19:43,WARN,Database,Memory usage high
+2025-11-07 12:34:13,INFO,Database,Authentication service unavailable
+2025-11-07 12:47:58,INFO,Cache,Disk I/O spike detected
+2025-11-07 11:46:43,INFO,Database,Network latency above threshold
+2025-11-07 12:32:28,INFO,LoadBalancer,Disk I/O spike detected
+2025-11-07 12:19:13,INFO,LoadBalancer,Authentication service unavailable
+2025-11-07 11:55:13,INFO,AuthService,Memory usage high
+2025-11-07 11:32:28,INFO,AuthService,Out of memory error
+2025-11-07 12:38:28,INFO,LoadBalancer,Disk I/O spike detected
+2025-11-07 11:39:43,WARN,Database,Disk I/O spike detected
+2025-11-07 12:29:43,INFO,AuthService,Disk I/O spike detected
+2025-11-07 12:14:58,ERROR,Cache,Out of memory error
+2025-11-07 11:44:43,WARN,API,Cache miss rate increased
+2025-11-07 11:37:13,WARN,AuthService,Cache miss rate increased
+2025-11-07 12:21:58,CRITICAL,LoadBalancer,Database connection lost
+2025-11-07 12:10:13,WARN,Database,Authentication service unavailable
+2025-11-07 12:36:58,ERROR,Database,CPU usage exceeded threshold
+2025-11-07 12:10:43,INFO,API,Cache miss rate increased
+2025-11-07 12:39:43,INFO,Database,Out of memory error
+2025-11-07 12:37:58,INFO,API,CPU usage exceeded threshold
+2025-11-07 11:17:28,INFO,Database,Disk I/O spike detected
+2025-11-07 11:39:58,INFO,API,Database connection lost
+2025-11-07 12:21:13,INFO,Database,Out of memory error
+2025-11-07 12:18:28,INFO,API,CPU usage exceeded threshold
+2025-11-07 12:30:28,INFO,Database,Network latency above threshold
+2025-11-07 11:27:58,INFO,Database,Authentication service unavailable
+2025-11-07 11:47:13,ERROR,Cache,Cache miss rate increased
+2025-11-07 11:14:58,INFO,API,Cache miss rate increased
+2025-11-07 12:08:28,INFO,AuthService,Memory usage high
+2025-11-07 11:26:43,INFO,Database,Read/write lock contention detected
+2025-11-07 12:43:13,INFO,API,Network latency above threshold
+2025-11-07 11:35:43,WARN,AuthService,Out of memory error
+2025-11-07 11:52:43,WARN,Database,Authentication service unavailable
+2025-11-07 11:15:28,ERROR,Cache,Memory usage high
+2025-11-07 11:45:28,ERROR,AuthService,Cache miss rate increased
+2025-11-07 11:37:58,INFO,LoadBalancer,Disk I/O spike detected
+2025-11-07 11:20:28,WARN,API,Cache miss rate increased
+2025-11-07 11:29:13,INFO,Database,Disk I/O spike detected
+2025-11-07 11:29:43,INFO,Database,Read/write lock contention detected
+2025-11-07 11:51:43,INFO,Database,Read/write lock contention detected
+2025-11-07 12:35:43,INFO,API,Out of memory error
+2025-11-07 12:33:58,INFO,LoadBalancer,Read/write lock contention detected
+2025-11-07 12:46:28,CRITICAL,Database,"Connection pool exhausted, unable to allocate connection"
+2025-11-07 12:17:13,INFO,LoadBalancer,Network latency above threshold
+2025-11-07 11:33:58,INFO,API,Database connection lost
+2025-11-07 11:36:43,INFO,AuthService,Connection timeout
+2025-11-07 12:39:58,WARN,AuthService,Out of memory error
+2025-11-07 12:46:58,WARN,AuthService,Out of memory error
+2025-11-07 11:51:58,INFO,LoadBalancer,Out of memory error
+2025-11-07 12:19:58,WARN,Cache,Memory usage high
+2025-11-07 12:07:13,WARN,AuthService,Database connection lost
+2025-11-07 12:01:43,INFO,AuthService,Memory usage high
+2025-11-07 12:03:58,ERROR,LoadBalancer,Cache miss rate increased
+2025-11-07 11:13:28,WARN,API,Database connection lost
+2025-11-07 11:53:58,INFO,API,Connection timeout
+2025-11-07 12:05:58,INFO,Database,Connection timeout
+2025-11-07 11:30:43,INFO,Database,Authentication service unavailable
+2025-11-07 11:34:13,INFO,Database,Connection timeout
+2025-11-07 11:45:43,CRITICAL,LoadBalancer,Disk I/O spike detected
+2025-11-07 11:42:28,ERROR,Database,Database connection lost
+2025-11-07 12:15:28,ERROR,API,Authentication service unavailable
+2025-11-07 11:08:28,WARN,API,Read/write lock contention detected
+2025-11-07 12:45:58,WARN,API,Connection timeout
+2025-11-07 11:16:58,INFO,API,Out of memory error
+2025-11-07 12:38:43,INFO,Database,Network latency above threshold
+2025-11-07 12:04:58,WARN,AuthService,Out of memory error
+2025-11-07 11:09:43,ERROR,Database,Authentication service unavailable
+2025-11-07 11:13:13,ERROR,API,Cache miss rate increased
+2025-11-07 11:09:58,WARN,AuthService,Disk I/O spike detected
+2025-11-07 12:34:43,WARN,LoadBalancer,Read/write lock contention detected
+2025-11-07 11:30:58,CRITICAL,Database,Database connection lost
+2025-11-07 11:27:43,ERROR,LoadBalancer,Authentication service unavailable
+2025-11-07 12:00:58,INFO,Cache,Out of memory error
+2025-11-07 12:20:13,INFO,LoadBalancer,Read/write lock contention detected
+2025-11-07 11:17:43,INFO,Database,Connection timeout
+2025-11-07 12:42:28,WARN,AuthService,Out of memory error
+2025-11-07 12:43:43,INFO,LoadBalancer,Memory usage high
+2025-11-07 11:12:58,WARN,Database,Out of memory error
+2025-11-07 12:33:28,WARN,API,Database connection lost
+2025-11-07 11:22:43,INFO,Cache,Out of memory error
+2025-11-07 11:19:13,INFO,AuthService,CPU usage exceeded threshold
+2025-11-07 11:41:13,INFO,AuthService,Read/write lock contention detected
+2025-11-07 11:59:28,INFO,Cache,Read/write lock contention detected
+2025-11-07 12:28:13,INFO,Cache,Authentication service unavailable
+2025-11-07 12:44:28,CRITICAL,Database,"Connection pool exhausted, unable to allocate connection"
+2025-11-07 11:45:58,WARN,AuthService,Read/write lock contention detected
+2025-11-07 11:23:28,INFO,AuthService,Connection timeout
+2025-11-07 12:08:58,INFO,AuthService,Connection timeout
+2025-11-07 11:44:13,WARN,Cache,Disk I/O spike detected
+2025-11-07 11:09:28,WARN,Database,Memory usage high
+2025-11-07 12:38:13,WARN,API,Disk I/O spike detected
+2025-11-07 11:23:13,WARN,Database,Read/write lock contention detected
+2025-11-07 11:25:13,INFO,LoadBalancer,Disk I/O spike detected
+2025-11-07 12:19:28,INFO,Cache,Network latency above threshold
+2025-11-07 11:25:58,INFO,Database,Database connection lost
+2025-11-07 12:32:13,WARN,API,Out of memory error
+2025-11-07 12:22:13,INFO,Database,Database connection lost
+2025-11-07 11:24:28,WARN,AuthService,Disk I/O spike detected
+2025-11-07 11:32:43,INFO,AuthService,Disk I/O spike detected
+2025-11-07 11:53:28,WARN,API,Authentication service unavailable
+2025-11-07 11:56:28,INFO,LoadBalancer,Disk I/O spike detected
+2025-11-07 11:57:58,INFO,LoadBalancer,Cache miss rate increased
+2025-11-07 12:33:43,INFO,API,Connection timeout
+2025-11-07 11:35:28,INFO,LoadBalancer,Connection timeout
+2025-11-07 11:46:58,INFO,AuthService,Disk I/O spike detected
+2025-11-07 11:37:43,INFO,AuthService,Out of memory error
+2025-11-07 11:26:58,WARN,Cache,Read/write lock contention detected
+2025-11-07 11:55:28,CRITICAL,API,Disk I/O spike detected
+2025-11-07 11:50:28,INFO,API,Connection timeout
+2025-11-07 11:52:28,INFO,Database,Authentication service unavailable
+2025-11-07 11:54:13,WARN,LoadBalancer,Read/write lock contention detected
+2025-11-07 12:28:43,INFO,LoadBalancer,CPU usage exceeded threshold
+2025-11-07 11:32:13,INFO,AuthService,Network latency above threshold
+2025-11-07 12:24:43,WARN,AuthService,Connection timeout
+2025-11-07 11:21:43,INFO,AuthService,Read/write lock contention detected
+2025-11-07 11:39:13,ERROR,LoadBalancer,Out of memory error
+2025-11-07 12:09:13,ERROR,API,Database connection lost
+2025-11-07 12:48:13,INFO,LoadBalancer,Database connection lost
+2025-11-07 11:48:13,INFO,Database,Disk I/O spike detected
+2025-11-07 12:10:28,INFO,API,Disk I/O spike detected
+2025-11-07 12:07:58,INFO,LoadBalancer,CPU usage exceeded threshold
+2025-11-07 12:12:13,INFO,LoadBalancer,Disk I/O spike detected
+2025-11-07 12:18:13,INFO,API,Authentication service unavailable
+2025-11-07 12:23:13,INFO,Cache,Authentication service unavailable
+2025-11-07 11:26:28,ERROR,Database,Read/write lock contention detected
+2025-11-07 12:33:13,WARN,Database,Connection timeout
+2025-11-07 12:12:43,INFO,LoadBalancer,Memory usage high
+2025-11-07 11:52:58,INFO,API,Read/write lock contention detected
+2025-11-07 12:23:58,INFO,Database,CPU usage exceeded threshold
+2025-11-07 12:41:13,WARN,AuthService,Connection timeout
+2025-11-07 12:37:43,INFO,LoadBalancer,Memory usage high
+2025-11-07 12:26:43,WARN,Database,Memory usage high
+2025-11-07 11:54:58,WARN,LoadBalancer,Network latency above threshold
+2025-11-07 12:15:13,INFO,API,Connection timeout
+2025-11-07 12:27:58,WARN,Cache,Network latency above threshold
+2025-11-07 12:14:13,INFO,Cache,Disk I/O spike detected
+2025-11-07 12:01:13,WARN,Database,Connection timeout
+2025-11-07 12:45:43,INFO,Cache,Read/write lock contention detected
+2025-11-07 11:17:13,CRITICAL,Database,Connection timeout
+2025-11-07 12:43:28,WARN,LoadBalancer,Network latency above threshold
+2025-11-07 11:40:43,INFO,Database,Database connection lost
+2025-11-07 12:32:43,WARN,Cache,Memory usage high
+2025-11-07 11:29:58,INFO,LoadBalancer,CPU usage exceeded threshold
+2025-11-07 11:20:43,WARN,API,CPU usage exceeded threshold
+2025-11-07 12:24:58,WARN,AuthService,Cache miss rate increased
+2025-11-07 11:20:58,WARN,Cache,Disk I/O spike detected
+2025-11-07 12:08:13,INFO,Cache,Database connection lost
+2025-11-07 11:14:43,INFO,LoadBalancer,Database connection lost
+2025-11-07 12:09:58,CRITICAL,LoadBalancer,Disk I/O spike detected
+2025-11-07 12:35:28,WARN,Database,Memory usage high
+2025-11-07 11:42:58,WARN,API,Cache miss rate increased
+2025-11-07 11:32:58,INFO,AuthService,Network latency above threshold
+2025-11-07 12:42:58,INFO,AuthService,Network latency above threshold
+2025-11-07 12:45:28,WARN,API,Database connection lost
+2025-11-07 12:07:28,INFO,LoadBalancer,Network latency above threshold
+2025-11-07 11:30:28,ERROR,LoadBalancer,Cache miss rate increased
+2025-11-07 12:41:43,CRITICAL,Database,Authentication service unavailable
+2025-11-07 12:13:13,INFO,AuthService,Database connection lost
+2025-11-07 11:22:58,INFO,API,Disk I/O spike detected
+2025-11-07 11:55:58,INFO,Cache,Disk I/O spike detected
+2025-11-07 11:48:28,ERROR,AuthService,Out of memory error
+2025-11-07 11:43:28,INFO,Database,Connection timeout
+2025-11-07 11:45:13,INFO,AuthService,Authentication service unavailable
+2025-11-07 11:57:13,WARN,AuthService,Out of memory error
+2025-11-07 12:47:28,CRITICAL,Database,"Connection pool exhausted, unable to allocate connection"
+2025-11-07 12:04:28,WARN,Database,Memory usage high
+2025-11-07 11:50:58,CRITICAL,AuthService,Disk I/O spike detected
+2025-11-07 11:38:58,INFO,Cache,Cache miss rate increased
+2025-11-07 11:34:28,WARN,AuthService,Connection timeout
+2025-11-07 12:02:58,WARN,AuthService,Cache miss rate increased
+2025-11-07 12:35:58,INFO,API,Disk I/O spike detected
+2025-11-07 12:20:58,INFO,API,Disk I/O spike detected
+2025-11-07 11:11:58,CRITICAL,Database,Cache miss rate increased
+2025-11-07 11:35:13,CRITICAL,Cache,Network latency above threshold
+2025-11-07 11:28:28,WARN,LoadBalancer,CPU usage exceeded threshold
+2025-11-07 12:06:58,WARN,Database,Authentication service unavailable
+2025-11-07 12:40:58,WARN,Cache,Cache miss rate increased
+2025-11-07 12:41:58,INFO,Database,Database connection lost
+2025-11-07 12:47:13,INFO,Database,CPU usage exceeded threshold
+2025-11-07 11:21:13,WARN,Cache,Out of memory error
+2025-11-07 11:22:28,ERROR,LoadBalancer,Memory usage high
+2025-11-07 11:34:43,INFO,Cache,CPU usage exceeded threshold
+2025-11-07 12:37:13,WARN,Cache,CPU usage exceeded threshold
+2025-11-07 12:28:58,WARN,Cache,Memory usage high
+2025-11-07 11:58:13,INFO,AuthService,Connection timeout
+2025-11-07 12:44:43,WARN,API,Disk I/O spike detected
+2025-11-07 12:06:13,CRITICAL,API,Memory usage high
+2025-11-07 11:16:13,INFO,API,Memory usage high
+2025-11-07 11:51:28,WARN,Cache,Read/write lock contention detected
+2025-11-07 12:02:43,ERROR,API,Network latency above threshold
+2025-11-07 12:01:58,WARN,Cache,CPU usage exceeded threshold
+2025-11-07 11:15:13,INFO,Cache,Connection timeout
+2025-11-07 11:58:58,INFO,Cache,CPU usage exceeded threshold
+2025-11-07 11:36:58,INFO,Cache,Cache miss rate increased
+2025-11-07 11:11:13,WARN,LoadBalancer,Memory usage high
+2025-11-07 12:26:28,INFO,Cache,Authentication service unavailable
+2025-11-07 11:44:58,INFO,Database,CPU usage exceeded threshold
+2025-11-07 12:43:28,CRITICAL,Database,"Connection pool exhausted, unable to allocate connection"
+2025-11-07 12:27:43,WARN,API,Read/write lock contention detected
+2025-11-07 11:11:28,ERROR,API,Database connection lost
+2025-11-07 12:31:43,WARN,LoadBalancer,CPU usage exceeded threshold
+2025-11-07 12:34:28,INFO,LoadBalancer,Disk I/O spike detected
+2025-11-07 11:11:43,INFO,API,Disk I/O spike detected
+2025-11-07 12:00:28,WARN,Database,Read/write lock contention detected
+2025-11-07 12:08:43,INFO,API,Memory usage high
+2025-11-07 12:15:43,ERROR,LoadBalancer,Disk I/O spike detected
+2025-11-07 11:33:28,ERROR,Database,Memory usage high
+2025-11-07 12:39:13,WARN,AuthService,CPU usage exceeded threshold
+2025-11-07 11:41:58,INFO,Database,Out of memory error
+2025-11-07 11:12:13,ERROR,AuthService,Database connection lost
+2025-11-07 12:12:28,WARN,LoadBalancer,Out of memory error
+2025-11-07 11:54:43,WARN,API,Memory usage high
+2025-11-07 11:52:13,WARN,Cache,Disk I/O spike detected
+2025-11-07 11:46:13,ERROR,Database,Read/write lock contention detected
+2025-11-07 12:45:28,CRITICAL,Database,"Connection pool exhausted, unable to allocate connection"
+2025-11-07 11:50:13,INFO,LoadBalancer,Cache miss rate increased
+2025-11-07 11:51:13,WARN,Database,Disk I/O spike detected
+2025-11-07 11:17:58,ERROR,AuthService,Cache miss rate increased
+2025-11-07 11:59:58,INFO,LoadBalancer,Database connection lost
+2025-11-07 11:08:43,ERROR,Database,Memory usage high
